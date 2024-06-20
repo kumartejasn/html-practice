@@ -1,0 +1,15 @@
+let x=20;
+console.log(x);
+let y=("kumar","tejas");
+console.log(y);
+let p={"tejas":"kumar","kumar":"tejas"};
+console.log(p);
+let pp={"tejas":"dhoni","marks":[88,99,77]};
+console.log(pp);
+let tt=[9,"tejas","kumar",78,];
+console.log(tt);
+let tp=["tejas","kumar",{"kumar":"tejas"}];
+console.log(tp);
+let a=["dhoni","tejas",7,{"dhoni":"captain"},20];
+console.log(a);
+console.log(typeof(a));
